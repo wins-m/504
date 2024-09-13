@@ -4,7 +4,8 @@
     <title>About me on WM&#39;s Blog</title>
     <link>https://wins-m.github.io/about/</link>
     <description>Recent content in About me on WM&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://wins-m.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://wins-m.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
