@@ -6,8 +6,22 @@
     <description>Recent content on WM&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Aug 2024 13:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 00:38:35 +0800</lastBuildDate>
     <atom:link href="https://wins-m.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我在结束时打开</title>
+      <link>https://wins-m.github.io/posts/2024/todo_by_end/</link>
+      <pubDate>Thu, 19 Sep 2024 00:38:35 +0800</pubDate>
+      <guid>https://wins-m.github.io/posts/2024/todo_by_end/</guid>
+      <description>&lt;p&gt;在结束时，可以做的事：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;每天听20遍打雷的歌&lt;/li&gt;&#xA;&lt;li&gt;不工作，在家里囤满意面+草+红白肉，足不出户，进行体育训练，累了就睡，躺一年&lt;/li&gt;&#xA;&lt;li&gt;掏出漫山白雪、认识电影，从头到尾把电影一一找到、看完&lt;/li&gt;&#xA;&lt;li&gt;掏出文学回忆录，从头到尾把所有大部头一一借来、看完&lt;/li&gt;&#xA;&lt;li&gt;掏出近五年的顶刊，从头到尾把标题、摘要看完，总结研究热点，思考对现实的启发&lt;/li&gt;&#xA;&lt;li&gt;练习睡觉，每天固定时间段睡眠，缩减难以入眠和过早醒来的时间&lt;/li&gt;&#xA;&lt;li&gt;写点东西，写写过去的经历，写写自己相信的理想，打磨文字&lt;/li&gt;&#xA;&lt;li&gt;搞辆入门车，探索周边 50km&lt;/li&gt;&#xA;&lt;li&gt;搞辆公路车，探索周边 150 km&lt;/li&gt;&#xA;&lt;li&gt;规划短途旅行，探索周边 300 km&lt;/li&gt;&#xA;&lt;li&gt;阅读地理书籍，为长途旅行做准备&lt;/li&gt;&#xA;&lt;li&gt;练习口语，去主流国家旅居&lt;/li&gt;&#xA;&lt;li&gt;学习西班牙语，去南美国家旅居&lt;/li&gt;&#xA;&lt;li&gt;学习摄影，去周边城市采风，重现发现世界&lt;/li&gt;&#xA;&lt;li&gt;学习自然摄影和荒野探索，去无人区记录自然&lt;/li&gt;&#xA;&lt;li&gt;学习航海，去帆船做水手漂流&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;以上的事，没有一样需要看人脸色，没有一样是消磨时间与损耗元气，却都是可以用无尽的生命来完成的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>随手记</title>
+      <link>https://wins-m.github.io/posts/2024/hands/</link>
+      <pubDate>Thu, 19 Sep 2024 00:28:55 +0800</pubDate>
+      <guid>https://wins-m.github.io/posts/2024/hands/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#24919&#34; &gt;24.9.19&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;24919&#34;&gt;&#xA;  24.9.19&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#24919&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;晚上将 mbp 2020 m1 系统升级到 Sequoia 15.0, 半夜起来码字，惊奇地发现外接显示器在 HDR 模式下可以通过系统设置调整亮度！&lt;/p&gt;&#xA;&lt;p&gt;并且这个亮度有些不正常，表现为黑色光的亮度始终不减弱（类似反光的白光始终存在），但是显示内容（非黑色光）却在变弱。&lt;/p&gt;&#xA;&lt;p&gt;黑色光==白色光！所以真很神奇。具体的原理有待科普……&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
     <item>
       <title>使用软路由、cf、反代、frp等建立个人/家庭网络</title>
       <link>https://wins-m.github.io/collections/2024/%E4%BD%BF%E7%94%A8%E8%BD%AF%E8%B7%AF%E7%94%B1cf%E5%8F%8D%E4%BB%A3frp%E7%AD%89%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C/</link>
