@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wins-m.github.io/collections/</loc>
-    <lastmod>2024-09-22T20:16:03+08:00</lastmod>
+    <loc>https://wins-m.github.io/authors/</loc>
+    <lastmod>2024-10-05T20:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://wins-m.github.io/posts/</loc>
+    <lastmod>2024-10-05T20:48:00+08:00</lastmod>
   </url><url>
     <loc>https://wins-m.github.io/tags/</loc>
-    <lastmod>2024-09-22T20:16:03+08:00</lastmod>
+    <lastmod>2024-10-05T20:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://wins-m.github.io/authors/wm/</loc>
+    <lastmod>2024-10-05T20:48:00+08:00</lastmod>
   </url><url>
     <loc>https://wins-m.github.io/</loc>
+    <lastmod>2024-10-05T20:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://wins-m.github.io/posts/2024/wuti.tazuozai/</loc>
+    <lastmod>2024-10-05T20:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://wins-m.github.io/tags/%E8%87%AA%E8%BF%B0/</loc>
+    <lastmod>2024-10-05T20:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://wins-m.github.io/collections/</loc>
     <lastmod>2024-09-22T20:16:03+08:00</lastmod>
   </url><url>
     <loc>https://wins-m.github.io/tags/%E7%8E%A9%E6%9C%BA/</loc>
@@ -17,19 +32,7 @@
     <loc>https://wins-m.github.io/collections/2024/%E9%BD%90%E5%BF%83nas%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%88%B7%E6%9C%BA/</loc>
     <lastmod>2024-09-22T20:16:03+08:00</lastmod>
   </url><url>
-    <loc>https://wins-m.github.io/authors/</loc>
-    <lastmod>2024-09-19T00:38:35+08:00</lastmod>
-  </url><url>
-    <loc>https://wins-m.github.io/posts/</loc>
-    <lastmod>2024-09-19T00:38:35+08:00</lastmod>
-  </url><url>
-    <loc>https://wins-m.github.io/authors/wm/</loc>
-    <lastmod>2024-09-19T00:38:35+08:00</lastmod>
-  </url><url>
     <loc>https://wins-m.github.io/posts/2024/todo_by_end/</loc>
-    <lastmod>2024-09-19T00:38:35+08:00</lastmod>
-  </url><url>
-    <loc>https://wins-m.github.io/tags/%E8%87%AA%E8%BF%B0/</loc>
     <lastmod>2024-09-19T00:38:35+08:00</lastmod>
   </url><url>
     <loc>https://wins-m.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
