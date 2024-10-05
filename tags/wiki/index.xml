@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wiki on WM&#39;s Blog</title>
-    <link>https://wins-m.github.io/tags/wiki/</link>
+    <link>http://localhost:1313/tags/wiki/</link>
     <description>Recent content in Wiki on WM&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Feb 2024 23:26:00 +0800</lastBuildDate>
-    <atom:link href="https://wins-m.github.io/tags/wiki/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/wiki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>社会排斥  Social Exclusion</title>
-      <link>https://wins-m.github.io/notes/2024/social.exclusion/</link>
+      <link>http://localhost:1313/notes/2024/social.exclusion/</link>
       <pubDate>Mon, 05 Feb 2024 23:26:00 +0800</pubDate>
-      <guid>https://wins-m.github.io/notes/2024/social.exclusion/</guid>
+      <guid>http://localhost:1313/notes/2024/social.exclusion/</guid>
       <description>&lt;p&gt;许多人都在学龄期受到过霸凌，或者有拒绝上学的经历。描述此类现象的一个术语叫做“社会排斥”，起源于法国。社会排斥如果持续，就会被视为与贫困存在密切的因果关系。&lt;/p&gt;&#xA;&lt;p&gt;在学龄期或幼年时期受到过社会排斥，将会成为阻碍自立的重要原因，这种创伤会在人生中留下很深的印迹。&lt;/p&gt;</description>
     </item>
   </channel>
